@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class SimulatedScribeAudioWidget extends StatefulWidget {
   final bool isGenerating;
@@ -64,14 +64,12 @@ class _SimulatedScribeAudioWidgetState extends State<SimulatedScribeAudioWidget>
               child: const Icon(Icons.mic, color: Color(0xFF0284C7)),
             ),
             const SizedBox(width: 10),
-            const Expanded(
-              child: Text(
-                'AI Clinical Scribe is processing ambient audio stream & synthesizing SOAP draft...',
-                style: TextStyle(
-                  fontSize: 12,
-                  fontWeight: FontWeight.w600,
-                  color: Color(0xFF1E40AF),
-                ),
+            const Text(
+              'AI Clinical Scribe is processing ambient audio stream & synthesizing SOAP draft...',
+              style: TextStyle(
+                fontSize: 12,
+                fontWeight: FontWeight.w600,
+                color: Color(0xFF1E40AF),
               ),
             ),
             const SizedBox(
