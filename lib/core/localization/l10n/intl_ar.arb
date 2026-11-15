@@ -1,0 +1,22 @@
+{
+  "@@locale": "ar",
+  "appTitle": "نظام ون ميديكال - بوابة العيادة",
+  "login": "تسجيل الدخول",
+  "username": "اسم المستخدم",
+  "password": "كلمة المرور",
+  "doctorAssistant": "مساعد الطبيب",
+  "treatingDoctor": "الطبيب المعالج",
+  "patientIntake": "استقبال المرضى",
+  "liveQueue": "طابور الانتظار المباشر",
+  "consultation": "الكشف الطبي",
+  "vitals": "العلامات الحيوية",
+  "unverifiedAiDraft": "مسودة ذكاء اصطناعي غير معتمدة - تتطلب مراجعة واعتماد الطبيب",
+  "approveAndCommit": "اعتماد وحفظ الكشف",
+  "ePrescription": "الروشتة الإلكترونية",
+  "allergies": "الحساسية والتحذيرات",
+  "chronicConditions": "الأمراض المزمنة",
+  "searchPatient": "بحث عن مريض (الهاتف / الرقم القومي)",
+  "registerPatient": "تسجيل مريض جديد",
+  "forwardToQueue": "تحويل إلى طابور الطبيب",
+  "bmi": "مؤشر كتلة الجسم"
+}

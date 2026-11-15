@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "appTitle": "One Medical System - Clinic Portal",
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "doctorAssistant": "Doctor Assistant",
+  "treatingDoctor": "Treating Doctor",
+  "patientIntake": "Patient Intake",
+  "liveQueue": "Live Consultation Queue",
+  "consultation": "Clinical Consultation",
+  "vitals": "Vital Signs",
+  "unverifiedAiDraft": "Unverified AI Draft - Requires Doctor Review & Approval",
+  "approveAndCommit": "Approve & Commit",
+  "ePrescription": "E-Prescription",
+  "allergies": "Allergies",
+  "chronicConditions": "Chronic Conditions",
+  "searchPatient": "Search Patient (Phone / National ID)",
+  "registerPatient": "Register New Patient",
+  "forwardToQueue": "Forward to Queue",
+  "bmi": "BMI"
+}
